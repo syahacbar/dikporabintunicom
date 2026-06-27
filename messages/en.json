@@ -1,0 +1,454 @@
+{
+  "seo": {
+    "siteName": "Dikpora Teluk Bintuni",
+    "title": "Department of Education, Culture, Youth and Sports of Teluk Bintuni Regency",
+    "description": "Official portal for education, culture, youth, sports, news, statistics, announcements, and public information in Teluk Bintuni Regency.",
+    "keywords": ["Dikpora Teluk Bintuni", "Teluk Bintuni Education", "Culture", "Youth", "Sports", "West Papua"]
+  },
+  "common": {
+    "agencyFull": "Department of Education, Culture, Youth and Sports of Teluk Bintuni Regency",
+    "agencyShort": "Department of Education, Culture, Youth and Sports",
+    "regency": "Teluk Bintuni Regency",
+    "portal": "Dikpora Portal",
+    "addressShort": "Bintuni Main Road, West Papua",
+    "email": "dikpora@telukbintunikab.go.id",
+    "phone": "(0955) 000-000"
+  },
+  "nav": {
+    "home": "Home",
+    "profile": "Message",
+    "education": "Education",
+    "culture": "Culture",
+    "youth": "Youth",
+    "sports": "Sports",
+    "services": "Services",
+    "statistics": "Statistics",
+    "gallery": "Gallery",
+    "news": "News",
+    "announcements": "Announcements",
+    "contact": "Contact",
+    "login": "Login"
+  },
+  "hero": {
+    "eyebrow": "Official Portal of Teluk Bintuni Regency Government",
+    "title": "Department of Education, Culture, Youth and Sports of Teluk Bintuni Regency",
+    "subtitle": "Building Smart, Cultured, Creative, Healthy, and Competitive Generations",
+    "primaryCta": "Access Services",
+    "secondaryCta": "Agency Profile",
+    "searchPlaceholder": "Search SIBANSOS, SPMB, SISPENDIK, NISN/NUPTK...",
+    "searchButton": "Search Services",
+    "searchItems": {
+      "sibansos": "SIBANSOS",
+      "spmb": "SPMB",
+      "sispendik": "SISPENDIK",
+      "nisnNuptk": "CHECK NISN/NUPTK"
+    },
+    "trust": {
+      "official": {
+        "title": "Official Portal",
+        "description": "Verified information"
+      },
+      "data": {
+        "title": "Data Driven",
+        "description": "Cross-sector statistics"
+      },
+      "access": {
+        "title": "Public Access",
+        "description": "Services easy to find"
+      },
+      "collaboration": {
+        "title": "Collaborative",
+        "description": "With schools and communities"
+      }
+    },
+    "slides": {
+      "education": {
+        "label": "Education",
+        "title": "Integrated Education Programs",
+        "description": "Access school data, admissions, teacher development, and digital learning services."
+      },
+      "spmb": {
+        "label": "SPMB",
+        "title": "Simpler New Student Admissions",
+        "description": "Access new student admission information and services in a clear and reachable way."
+      },
+      "data": {
+        "label": "SISPENDIK",
+        "title": "Integrated Education Data",
+        "description": "School, teacher, and student data support for more accurate education services."
+      },
+      "support": {
+        "label": "SIBANSOS",
+        "title": "Targeted Education Assistance",
+        "description": "An education assistance information channel supporting equitable learning access."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Quick Access",
+    "title": "Education Service Access",
+    "description": "Quick services focus on key education needs so citizens can go directly to the right channel.",
+    "panelTitle": "Education Service Center",
+    "panelDescription": "Compact access to education assistance, new student admissions, education data, and identity checks.",
+    "popular": "Popular services",
+    "openService": "Open Service",
+    "groups": {
+      "sibansos": {
+        "title": "SIBANSOS",
+        "badge": "Assistance",
+        "description": "Information and access for education social assistance services for eligible students."
+      },
+      "spmb": {
+        "title": "SPMB",
+        "badge": "Admissions",
+        "description": "New Student Admission System channel for schedules, procedures, and registration."
+      },
+      "sispendik": {
+        "title": "SISPENDIK",
+        "badge": "Data",
+        "description": "Education information system for managing school, teacher, and student data."
+      },
+      "nisnNuptk": {
+        "title": "CHECK NISN/NUPTK",
+        "badge": "Validation",
+        "description": "Quick access to check student NISN and educator or staff NUPTK."
+      }
+    }
+  },
+  "statistics": {
+    "eyebrow": "Education Statistics",
+    "title": "Teluk Bintuni Education Data",
+    "description": "Education indicators supporting transparency, planning, and data-driven services.",
+    "highlightLabel": "Registered students",
+    "highlightDescription": "Indicator data can evolve into an integrated public dashboard for regional program monitoring.",
+    "summaryBadge": "Summary",
+    "items": {
+      "schools": "Schools",
+      "teachers": "Teachers",
+      "students": "Students",
+      "classrooms": "Classrooms",
+      "graduates": "Graduates/Year",
+      "operators": "School Operators"
+    },
+    "levels": {
+      "kb": "Playgroup",
+      "tk": "Kindergarten",
+      "sd": "Primary School",
+      "smp": "Junior High",
+      "sma": "Senior High",
+      "smk": "Vocational High",
+      "skb": "SKB"
+    },
+    "status": {
+      "public": "Public",
+      "private": "Private"
+    },
+    "employment": {
+      "pns": "Civil Servant",
+      "pppk": "PPPK",
+      "contract": "Contract/Honorary"
+    },
+    "schools": {
+      "kicker": "School Data",
+      "title": "Schools by Status and Level",
+      "description": "Composition of public and private schools with level distribution from playgroup to vocational high school.",
+      "byLevel": "By education level",
+      "districtKicker": "District Distribution",
+      "districtTitle": "Schools per District by Status",
+      "districtDescription": "Comparison of public and private schools in each district of Teluk Bintuni Regency."
+    },
+    "students": {
+      "kicker": "Student Data",
+      "title": "Students by Education Level",
+      "description": "Student distribution from playgroup to vocational high school, including SKB as nonformal education service."
+    },
+    "teachers": {
+      "kicker": "Teacher Data",
+      "title": "Teachers by Employment Status and Level",
+      "description": "Teacher composition by employment status and assignment distribution across education levels.",
+      "byLevel": "By education level"
+    }
+  },
+  "thematicMap": {
+    "eyebrow": "Education Thematic Map",
+    "title": "Education Data Distribution by District",
+    "description": "An OpenStreetMap-based interactive visualization for viewing schools, students, teachers, and school status across districts.",
+    "mapLabel": "Interactive Map",
+    "mapDescription": "Choose a data theme, then click or hover over a district marker.",
+    "mapDescriptions": {
+      "schools": "The map shows total school distribution by district.",
+      "students": "The map shows total student counts by district.",
+      "teachers": "The map shows total teacher counts by district."
+    },
+    "detailLabel": "District Detail",
+    "detailDescription": "Thematic data summary for the selected district on the map.",
+    "districtTitle": "{district} District Education Data",
+    "regencyTitle": "Teluk Bintuni Regency Education Data",
+    "detailDescriptions": {
+      "schools": "School details by status and education level in the selected district.",
+      "students": "Student details for Teluk Bintuni Regency by education level.",
+      "teachers": "Teacher details for Teluk Bintuni Regency by employment status and education level."
+    },
+    "emptyMapMessages": {
+      "students": "Student data by district is not available yet, so this theme does not display map markers.",
+      "teachers": "Teacher data by district is not available yet, so this theme does not display map markers."
+    },
+    "activeTheme": "Active theme",
+    "total": "Total data",
+    "selectedTotal": "Total Teluk Bintuni Regency",
+    "schools": "Schools",
+    "publicSchools": "Public Schools",
+    "privateSchools": "Private Schools",
+    "students": "Students",
+    "teachers": "Teachers",
+    "note": "Note: this map uses district point markers based on OpenStreetMap because official administrative boundary GeoJSON is not available yet. Coordinates can be updated later according to official data.",
+    "themes": {
+      "schools": "Schools",
+      "students": "Students",
+      "teachers": "Teachers"
+    },
+    "sections": {
+      "byStatus": "By status",
+      "byLevel": "By education level",
+      "byEmployment": "By employment status"
+    }
+  },
+  "welcome": {
+    "eyebrow": "Head of Department Message",
+    "title": "Welcome to the Official Website of the Teluk Bintuni Regency Education Office.",
+    "photoLabel": "Head of Department",
+    "headName": "Dr. Henry D. Kapuangan, S.IP., S.Pd., MM",
+    "position": "Head of the Teluk Bintuni Regency Education Office",
+    "paragraphs": [
+      "This website is an information and public service platform provided to strengthen information transparency, improve service quality, and make it easier for the public to access various information and programs in the education sector.",
+      "We are committed to continuously improving education quality that is equitable, inclusive, and adaptive to developments in science and technology. Through collaboration between government, education units, educators, parents, and the entire community, we believe we can create a quality education ecosystem to realize Teluk Bintuni human resources who are intelligent, cultured, religious, and competitive.",
+      "May this website become a useful communication, information, and service medium for all people of Teluk Bintuni Regency."
+    ],
+    "closingLabel": "Closing",
+    "closing": "Thank you."
+  },
+  "programs": {
+    "eyebrow": "Featured Programs",
+    "title": "Priority Agenda for the Community",
+    "description": "Cross-sector programs strengthen citizens, schools, cultural communities, youth, and regional athletes.",
+    "groups": {
+      "education": {
+        "title": "Education",
+        "items": {
+          "digitalSchool": {
+            "title": "Digital School",
+            "description": "Digitizing administration, learning, and school information access."
+          },
+          "teacherQuality": {
+            "title": "Teacher Quality Improvement",
+            "description": "Competency training, learning communities, and teacher mentoring."
+          }
+        }
+      },
+      "culture": {
+        "title": "Culture",
+        "items": {
+          "localCulture": {
+            "title": "Local Culture Preservation",
+            "description": "Cultural heritage inventory, documentation, and public education."
+          },
+          "regionalFestival": {
+            "title": "Regional Cultural Festival",
+            "description": "A space for arts, traditions, and cultural community collaboration."
+          }
+        }
+      },
+      "youth": {
+        "title": "Youth",
+        "items": {
+          "youthIncubator": {
+            "title": "Young Entrepreneur Incubator",
+            "description": "Mentoring, network access, and strengthening youth startups."
+          },
+          "leadership": {
+            "title": "Leadership Training",
+            "description": "Character, organization, and social leadership development."
+          }
+        }
+      },
+      "sports": {
+        "title": "Sports",
+        "items": {
+          "athleteDevelopment": {
+            "title": "Regional Athlete Development",
+            "description": "Talent scouting, coaching, and competition support."
+          },
+          "studentCompetition": {
+            "title": "Student Sports Competition",
+            "description": "A platform to develop student interests, talent, and sportsmanship."
+          }
+        }
+      }
+    }
+  },
+  "news": {
+    "eyebrow": "Latest News",
+    "title": "Official Updates and Publications",
+    "description": "Recent information about programs, activities, achievements, and Dikpora Teluk Bintuni services.",
+    "featured": "Featured Story",
+    "categories": {
+      "education": "Education",
+      "culture": "Culture",
+      "youth": "Youth",
+      "sports": "Sports"
+    },
+    "items": {
+      "n1": {
+        "title": "Dikpora Strengthens School Digital Transformation",
+        "summary": "Schools are encouraged to optimize technology-based data services and learning."
+      },
+      "n2": {
+        "title": "Regional Cultural Festival Prepares Local Community Stage",
+        "summary": "Art communities and cultural studios will join the regional cultural preservation agenda."
+      },
+      "n3": {
+        "title": "Teluk Bintuni Youth Join Creative Entrepreneurship Training",
+        "summary": "The program strengthens business capacity, digital marketing, and youth enterprise networks."
+      },
+      "n4": {
+        "title": "Student Athlete Coaching Toward Regional Competition",
+        "summary": "Selection and training camps prepare regional sports talent."
+      },
+      "n5": {
+        "title": "Teacher Mentoring Focuses on Literacy and Numeracy",
+        "summary": "Teacher capacity activities are directed toward basic learning quality."
+      },
+      "n6": {
+        "title": "Cultural Heritage Inventory Continues to Be Updated",
+        "summary": "Data collection strengthens cultural archives and local heritage protection."
+      }
+    }
+  },
+  "announcements": {
+    "eyebrow": "Announcements",
+    "title": "Official Information and Important Dates",
+    "description": "Priority notices for citizens, schools, students, and working partners.",
+    "boardTitle": "Official Notice Board",
+    "boardDescription": "Use this section for announcements that require quick public attention.",
+    "priority": {
+      "high": "High Priority",
+      "medium": "Important",
+      "low": "Information"
+    },
+    "items": {
+      "pppk": {
+        "title": "PPPK Selection Information",
+        "description": "Monitor schedules, requirements, and official documents for PPPK selection through this channel."
+      },
+      "ppdb": {
+        "title": "New Academic Year Admissions Schedule",
+        "description": "Information on registration, verification, and student admission announcements."
+      },
+      "aid": {
+        "title": "Education Assistance",
+        "description": "Guidance for eligible students applying for education assistance."
+      },
+      "event": {
+        "title": "Regional Event Agenda",
+        "description": "Culture, youth, and sports activities across Teluk Bintuni Regency."
+      }
+    }
+  },
+  "agenda": {
+    "eyebrow": "Activity Agenda",
+    "title": "Upcoming Activity Timeline",
+    "description": "Cross-sector activity plans that citizens can join or monitor.",
+    "items": {
+      "festival": {
+        "title": "Teluk Bintuni Cultural Festival",
+        "description": "Art performances, cultural exhibitions, and local community collaboration."
+      },
+      "teacherTraining": {
+        "title": "Competency-Based Teacher Training",
+        "description": "Capacity-building classes for primary and secondary school teachers."
+      },
+      "tournament": {
+        "title": "Student Sports Tournament",
+        "description": "Inter-school competition encouraging achievement and sportsmanship."
+      },
+      "youthSeminar": {
+        "title": "Youth Seminar",
+        "description": "A forum for leadership, digital literacy, and young entrepreneurship."
+      }
+    }
+  },
+  "gallery": {
+    "eyebrow": "Activity Gallery",
+    "title": "Program and Activity Documentation",
+    "description": "A visual space for education, culture, youth, and sports activities.",
+    "items": {
+      "education": {
+        "title": "Education Activities",
+        "description": "School assistance and learning programs."
+      },
+      "culture": {
+        "title": "Culture",
+        "description": "Local art and tradition performances."
+      },
+      "youth": {
+        "title": "Youth",
+        "description": "Organization and entrepreneurship training."
+      },
+      "sports": {
+        "title": "Sports",
+        "description": "Competitions and athlete development."
+      },
+      "school": {
+        "title": "Partner Schools",
+        "description": "Collaboration with education units."
+      },
+      "community": {
+        "title": "Community",
+        "description": "Synergy with citizens and partners."
+      }
+    }
+  },
+  "partners": {
+    "eyebrow": "Working Partners",
+    "title": "Collaboration for Better Services",
+    "description": "Dikpora builds strategic partnerships with government, schools, organizations, and communities.",
+    "items": {
+      "kemendikbud": "Ministry of Education",
+      "pemkab": "Teluk Bintuni Regency Government",
+      "schools": "Partner Schools",
+      "youthOrg": "Youth Organizations",
+      "koni": "KONI",
+      "cultureCommunity": "Cultural Communities"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact and Location",
+    "title": "Contact Us",
+    "description": "Send questions, public information requests, or feedback through official channels.",
+    "address": "Dikpora Office, Teluk Bintuni Regency, West Papua",
+    "phone": "(0955) 000-000",
+    "email": "dikpora@telukbintunikab.go.id",
+    "hours": "Monday - Friday, 08:00 - 16:00 WIT",
+    "mapPlaceholder": "Office Location Map",
+    "mapDescription": "This map placeholder can be replaced with an official Google Maps embed.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Full name",
+      "email": "Email",
+      "emailPlaceholder": "name@email.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "Message topic",
+      "message": "Message",
+      "messagePlaceholder": "Write your message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "title": "Dikpora Teluk Bintuni",
+    "description": "Official information and public service portal for education, culture, youth, and sports in Teluk Bintuni Regency.",
+    "quickNav": "Quick Navigation",
+    "publicServices": "Public Services",
+    "social": "Social Media",
+    "copyright": "Department of Education, Culture, Youth and Sports of Teluk Bintuni Regency. All rights reserved."
+  }
+}

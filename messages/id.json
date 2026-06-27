@@ -1,0 +1,455 @@
+{
+  "seo": {
+    "siteName": "Dikpora Teluk Bintuni",
+    "title": "Dinas Pendidikan, Kebudayaan, Pemuda dan Olahraga Kabupaten Teluk Bintuni",
+    "description": "Portal resmi layanan pendidikan, kebudayaan, kepemudaan, olahraga, berita, statistik, pengumuman, dan informasi publik Kabupaten Teluk Bintuni.",
+    "keywords": ["Dikpora Teluk Bintuni", "Pendidikan Teluk Bintuni", "Kebudayaan", "Pemuda", "Olahraga", "Papua Barat"]
+  },
+  "common": {
+    "agencyFull": "Dinas Pendidikan, Kebudayaan, Pemuda dan Olahraga Kabupaten Teluk Bintuni",
+    "agencyShort": "Dinas Pendidikan, Kebudayaan, Pemuda dan Olahraga",
+    "regency": "Kabupaten Teluk Bintuni",
+    "portal": "Portal Dikpora",
+    "addressShort": "Jl. Raya Sibena KM 7, Teluk Bintuni, Papua Barat",
+    "email": "dikpora_bintuni@yahoo.co.id",
+    "phone": "(0955) 31257"
+  },
+  "nav": {
+    "home": "Beranda",
+    "profile": "Sambutan",
+    "education": "Pendidikan",
+    "culture": "Kebudayaan",
+    "youth": "Pemuda",
+    "sports": "Olahraga",
+    "services": "Layanan",
+    "statistics": "Statistik",
+    "gallery": "Galeri",
+    "news": "Berita",
+    "announcements": "Pengumuman",
+    "contact": "Kontak",
+    "login": "Login"
+  },
+  "hero": {
+    "eyebrow": "Portal Resmi Pemerintah Kabupaten Teluk Bintuni",
+    "title": "Dinas Pendidikan, Kebudayaan, Pemuda dan Olahraga Kabupaten Teluk Bintuni",
+    "subtitle": "Membangun Generasi Cerdas, Berbudaya, Kreatif, Sehat, dan Berdaya Saing",
+    "primaryCta": "Akses Layanan",
+    "secondaryCta": "Profil Instansi",
+    "searchPlaceholder": "Cari SIBANSOS, SPMB, SISPENDIK, NISN/NUPTK...",
+    "searchButton": "Cari Layanan",
+    "searchItems": {
+      "sibansos": "SIBANSOS",
+      "spmb": "SPMB",
+      "sispendik": "SISPENDIK",
+      "nisnNuptk": "CEK NISN/NUPTK"
+    },
+    "trust": {
+      "official": {
+        "title": "Portal Resmi",
+        "description": "Informasi terverifikasi"
+      },
+      "data": {
+        "title": "Berbasis Data",
+        "description": "Statistik lintas sektor"
+      },
+      "access": {
+        "title": "Akses Publik",
+        "description": "Layanan mudah ditemukan"
+      },
+      "collaboration": {
+        "title": "Kolaboratif",
+        "description": "Bersama sekolah dan komunitas"
+      }
+    },
+    "slides": {
+      "education": {
+        "label": "Pendidikan",
+        "title": "Program Pendidikan Terpadu",
+        "description": "Akses data sekolah, PPDB, peningkatan mutu guru, dan layanan pembelajaran digital."
+      },
+      "spmb": {
+        "label": "SPMB",
+        "title": "Penerimaan Murid Baru Lebih Mudah",
+        "description": "Akses informasi dan layanan penerimaan murid baru secara ringkas, jelas, dan mudah dijangkau."
+      },
+      "data": {
+        "label": "SISPENDIK",
+        "title": "Data Pendidikan Terintegrasi",
+        "description": "Dukungan data sekolah, guru, dan peserta didik untuk layanan pendidikan yang lebih akurat."
+      },
+      "support": {
+        "label": "SIBANSOS",
+        "title": "Bantuan Pendidikan Tepat Sasaran",
+        "description": "Kanal informasi bantuan pendidikan untuk mendukung pemerataan akses belajar."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Layanan Cepat",
+    "title": "Akses Layanan Pendidikan",
+    "description": "Layanan cepat difokuskan pada kebutuhan utama pendidikan agar masyarakat dapat langsung menuju kanal yang dibutuhkan.",
+    "panelTitle": "Pusat Layanan Pendidikan",
+    "panelDescription": "Akses ringkas untuk bantuan pendidikan, penerimaan murid baru, data pendidikan, dan pengecekan identitas pendidikan.",
+    "popular": "Layanan populer",
+    "openService": "Buka Layanan",
+    "groups": {
+      "sibansos": {
+        "title": "SIBANSOS",
+        "badge": "Bantuan",
+        "description": "Informasi dan akses layanan bantuan sosial pendidikan untuk peserta didik yang membutuhkan."
+      },
+      "spmb": {
+        "title": "SPMB",
+        "badge": "Penerimaan",
+        "description": "Kanal Sistem Penerimaan Murid Baru untuk informasi jadwal, alur, dan pendaftaran."
+      },
+      "sispendik": {
+        "title": "SISPENDIK",
+        "badge": "Data",
+        "description": "Sistem informasi pendidikan untuk pengelolaan data sekolah, guru, dan peserta didik."
+      },
+      "nisnNuptk": {
+        "title": "CEK NISN/NUPTK",
+        "badge": "Validasi",
+        "description": "Akses cepat untuk pengecekan NISN peserta didik dan NUPTK pendidik/tenaga kependidikan."
+      }
+    }
+  },
+  "statistics": {
+    "eyebrow": "Statistik Pendidikan",
+    "title": "Data Pendidikan Kabupaten Teluk Bintuni",
+    "description": "Ringkasan indikator pendidikan untuk mendukung transparansi, perencanaan, dan layanan berbasis data.",
+    "highlightLabel": "Total peserta didik terdata",
+    "highlightDescription": "Basis data indikator dapat dikembangkan menjadi dashboard publik terintegrasi untuk monitoring program daerah.",
+    "summaryBadge": "Ringkasan",
+    "items": {
+      "schools": "Jumlah Sekolah",
+      "teachers": "Jumlah Guru",
+      "students": "Jumlah Siswa",
+      "classrooms": "Ruang Kelas",
+      "graduates": "Lulusan/Tahun",
+      "operators": "Operator Sekolah"
+    },
+    "levels": {
+      "kb": "KB",
+      "tk": "TK",
+      "sd": "SD",
+      "smp": "SMP",
+      "sma": "SMA",
+      "smk": "SMK",
+      "skb": "SKB"
+    },
+    "status": {
+      "public": "Negeri",
+      "private": "Swasta"
+    },
+    "employment": {
+      "pns": "PNS",
+      "pppk": "PPPK",
+      "contract": "Kontrak/Honor"
+    },
+    "schools": {
+      "kicker": "Data Sekolah",
+      "title": "Sekolah Berdasarkan Status dan Jenjang",
+      "description": "Komposisi satuan pendidikan negeri dan swasta, dilengkapi distribusi jenjang KB sampai SMK.",
+      "byLevel": "Berdasarkan jenjang pendidikan",
+      "districtKicker": "Sebaran Distrik",
+      "districtTitle": "Sekolah per Distrik Berdasarkan Status",
+      "districtDescription": "Perbandingan sekolah negeri dan swasta pada setiap distrik di Kabupaten Teluk Bintuni."
+    },
+    "students": {
+      "kicker": "Data Siswa",
+      "title": "Siswa Berdasarkan Jenjang Pendidikan",
+      "description": "Sebaran peserta didik dari KB sampai SMK, termasuk SKB sebagai layanan pendidikan nonformal."
+    },
+    "teachers": {
+      "kicker": "Data Guru",
+      "title": "Guru Berdasarkan Kepegawaian dan Jenjang",
+      "description": "Komposisi guru berdasarkan status kepegawaian dan distribusi penugasan pada setiap jenjang pendidikan.",
+      "byLevel": "Berdasarkan jenjang pendidikan"
+    }
+  },
+  "thematicMap": {
+    "eyebrow": "Peta Tematik Pendidikan",
+    "title": "Sebaran Data Pendidikan per Distrik",
+    "description": "Visualisasi interaktif berbasis OpenStreetMap untuk membaca sebaran sekolah, siswa, guru, dan status sekolah pada setiap distrik.",
+    "mapLabel": "Peta Interaktif",
+    "mapDescription": "Pilih tema data, lalu klik atau arahkan kursor pada titik distrik.",
+    "mapDescriptions": {
+      "schools": "Peta menampilkan sebaran jumlah sekolah keseluruhan per distrik.",
+      "students": "Peta menampilkan jumlah siswa keseluruhan per distrik.",
+      "teachers": "Peta menampilkan jumlah guru keseluruhan per distrik."
+    },
+    "detailLabel": "Detail Distrik",
+    "detailDescription": "Ringkasan data tematik untuk distrik yang dipilih pada peta.",
+    "districtTitle": "Data Pendidikan Distrik {district}",
+    "regencyTitle": "Data Pendidikan Kabupaten Teluk Bintuni",
+    "detailDescriptions": {
+      "schools": "Rincian sekolah berdasarkan status dan jenjang pendidikan di distrik terpilih.",
+      "students": "Rincian jumlah siswa Kabupaten Teluk Bintuni berdasarkan jenjang pendidikan.",
+      "teachers": "Rincian guru Kabupaten Teluk Bintuni berdasarkan status kepegawaian dan jenjang pendidikan."
+    },
+    "emptyMapMessages": {
+      "students": "Data siswa per distrik belum tersedia, sehingga peta tidak menampilkan marker pada tema ini.",
+      "teachers": "Data guru per distrik belum tersedia, sehingga peta tidak menampilkan marker pada tema ini."
+    },
+    "activeTheme": "Tema aktif",
+    "total": "Total data",
+    "selectedTotal": "Total Kabupaten Teluk Bintuni",
+    "schools": "Sekolah",
+    "publicSchools": "Sekolah Negeri",
+    "privateSchools": "Sekolah Swasta",
+    "students": "Siswa",
+    "teachers": "Guru",
+    "note": "Catatan: peta ini menggunakan marker titik distrik berbasis OpenStreetMap karena batas administrasi/GeoJSON resmi belum tersedia. Titik koordinat dapat diperbarui sewaktu-waktu sesuai data resmi.",
+    "themes": {
+      "schools": "Sekolah",
+      "students": "Siswa",
+      "teachers": "Guru"
+    },
+    "sections": {
+      "byStatus": "Berdasarkan status",
+      "byLevel": "Berdasarkan jenjang pendidikan",
+      "byEmployment": "Berdasarkan status kepegawaian"
+    }
+  },
+  "welcome": {
+    "eyebrow": "Sambutan Kepala Dinas",
+    "title": "Selamat datang di Website Resmi Dinas Pendidikan Kabupaten Teluk Bintuni",
+    "photoLabel": "Kepala Dinas",
+    "headName": "Dr. Henry D. Kapuangan, S.IP., S.Pd., MM",
+    "position": "Kepala Dinas Pendidikan, Kebudayaan, Pemuda dan Olahraga Kabupaten Teluk Bintuni",
+    "paragraphs": [
+      "Website ini merupakan sarana informasi dan pelayanan publik yang kami hadirkan untuk memperkuat keterbukaan informasi, meningkatkan kualitas layanan, serta memudahkan masyarakat dalam mengakses berbagai informasi dan program di bidang pendidikan.",
+      "Kami berkomitmen untuk terus meningkatkan mutu pendidikan yang merata, inklusif, dan adaptif terhadap perkembangan ilmu pengetahuan dan teknologi. Melalui kolaborasi antara pemerintah, satuan pendidikan, tenaga pendidik, orang tua, dan seluruh masyarakat, kami percaya dapat menciptakan ekosistem pendidikan yang berkualitas demi terwujudnya sumber daya manusia Teluk Bintuni yang cerdas, berbudaya, religius, dan berdaya saing.",
+      "Semoga website ini menjadi media komunikasi, informasi, dan pelayanan yang bermanfaat bagi seluruh masyarakat Kabupaten Teluk Bintuni.",
+      "Terima kasih"
+    ],
+    "closingLabel": "Penutup",
+    "closing": "Terima kasih."
+  },
+  "programs": {
+    "eyebrow": "Program Unggulan",
+    "title": "Agenda Prioritas untuk Masyarakat",
+    "description": "Program kerja lintas bidang dirancang untuk memperkuat kapasitas warga, lembaga pendidikan, komunitas budaya, pemuda, dan atlet daerah.",
+    "groups": {
+      "education": {
+        "title": "Pendidikan",
+        "items": {
+          "digitalSchool": {
+            "title": "Sekolah Digital",
+            "description": "Digitalisasi administrasi, pembelajaran, dan akses informasi sekolah."
+          },
+          "teacherQuality": {
+            "title": "Peningkatan Mutu Guru",
+            "description": "Pelatihan kompetensi, komunitas belajar, dan pendampingan guru."
+          }
+        }
+      },
+      "culture": {
+        "title": "Kebudayaan",
+        "items": {
+          "localCulture": {
+            "title": "Pelestarian Budaya Lokal",
+            "description": "Inventarisasi warisan budaya, dokumentasi, dan edukasi publik."
+          },
+          "regionalFestival": {
+            "title": "Festival Budaya Daerah",
+            "description": "Ruang ekspresi seni, tradisi, dan kolaborasi komunitas budaya."
+          }
+        }
+      },
+      "youth": {
+        "title": "Pemuda",
+        "items": {
+          "youthIncubator": {
+            "title": "Inkubasi Wirausaha Muda",
+            "description": "Mentoring, akses jejaring, dan penguatan usaha rintisan pemuda."
+          },
+          "leadership": {
+            "title": "Pelatihan Kepemimpinan",
+            "description": "Pembinaan karakter, organisasi, dan kepemimpinan sosial."
+          }
+        }
+      },
+      "sports": {
+        "title": "Olahraga",
+        "items": {
+          "athleteDevelopment": {
+            "title": "Pembinaan Atlet Daerah",
+            "description": "Talent scouting, pelatihan, dan dukungan kompetisi prestasi."
+          },
+          "studentCompetition": {
+            "title": "Kompetisi Olahraga Pelajar",
+            "description": "Ajang pembinaan minat, bakat, dan sportivitas peserta didik."
+          }
+        }
+      }
+    }
+  },
+  "news": {
+    "eyebrow": "Berita Terbaru",
+    "title": "Kabar dan Publikasi Resmi",
+    "description": "Informasi terkini seputar program, kegiatan, capaian, dan layanan Dikpora Kabupaten Teluk Bintuni.",
+    "featured": "Berita Utama",
+    "categories": {
+      "education": "Pendidikan",
+      "culture": "Kebudayaan",
+      "youth": "Pemuda",
+      "sports": "Olahraga"
+    },
+    "items": {
+      "n1": {
+        "title": "Dikpora Perkuat Transformasi Digital Sekolah",
+        "summary": "Satuan pendidikan didorong mengoptimalkan layanan data dan pembelajaran berbasis teknologi."
+      },
+      "n2": {
+        "title": "Festival Budaya Daerah Siapkan Panggung Komunitas Lokal",
+        "summary": "Komunitas seni dan sanggar budaya akan dilibatkan dalam agenda pelestarian budaya daerah."
+      },
+      "n3": {
+        "title": "Pemuda Teluk Bintuni Ikuti Pelatihan Wirausaha Kreatif",
+        "summary": "Program ini memperkuat kapasitas bisnis, pemasaran digital, dan jejaring usaha pemuda."
+      },
+      "n4": {
+        "title": "Pembinaan Atlet Pelajar Menuju Kompetisi Regional",
+        "summary": "Seleksi dan pemusatan latihan dilakukan untuk menyiapkan talenta olahraga daerah."
+      },
+      "n5": {
+        "title": "Pendampingan Guru Fokus pada Literasi dan Numerasi",
+        "summary": "Kegiatan peningkatan kapasitas guru diarahkan pada kualitas pembelajaran dasar."
+      },
+      "n6": {
+        "title": "Inventarisasi Cagar Budaya Terus Diperbarui",
+        "summary": "Pendataan dilakukan untuk memperkuat arsip kebudayaan dan perlindungan warisan lokal."
+      }
+    }
+  },
+  "announcements": {
+    "eyebrow": "Pengumuman",
+    "title": "Informasi Resmi dan Jadwal Penting",
+    "description": "Pengumuman prioritas yang perlu diperhatikan masyarakat, sekolah, peserta didik, dan mitra kerja.",
+    "boardTitle": "Papan Informasi Resmi",
+    "boardDescription": "Gunakan bagian ini untuk pengumuman yang membutuhkan perhatian cepat dari masyarakat.",
+    "priority": {
+      "high": "Prioritas Tinggi",
+      "medium": "Penting",
+      "low": "Informasi"
+    },
+    "items": {
+      "pppk": {
+        "title": "Informasi Seleksi PPPK",
+        "description": "Pantau jadwal, ketentuan, dan dokumen resmi seleksi PPPK melalui kanal pengumuman ini."
+      },
+      "ppdb": {
+        "title": "Jadwal PPDB Tahun Ajaran Baru",
+        "description": "Informasi tahapan pendaftaran, verifikasi, dan pengumuman penerimaan peserta didik baru."
+      },
+      "aid": {
+        "title": "Bantuan Pendidikan",
+        "description": "Panduan pengajuan bantuan pendidikan untuk peserta didik yang memenuhi persyaratan."
+      },
+      "event": {
+        "title": "Agenda Event Daerah",
+        "description": "Daftar kegiatan kebudayaan, kepemudaan, dan olahraga tingkat Kabupaten Teluk Bintuni."
+      }
+    }
+  },
+  "agenda": {
+    "eyebrow": "Agenda Kegiatan",
+    "title": "Timeline Kegiatan Mendatang",
+    "description": "Rencana kegiatan lintas bidang yang dapat diikuti atau dipantau oleh masyarakat.",
+    "items": {
+      "festival": {
+        "title": "Festival Budaya Teluk Bintuni",
+        "description": "Pertunjukan seni, pameran budaya, dan ruang kolaborasi komunitas lokal."
+      },
+      "teacherTraining": {
+        "title": "Pelatihan Guru Berbasis Kompetensi",
+        "description": "Kelas peningkatan kapasitas untuk guru jenjang dasar dan menengah."
+      },
+      "tournament": {
+        "title": "Turnamen Olahraga Pelajar",
+        "description": "Kompetisi antar sekolah untuk mendorong prestasi dan sportivitas."
+      },
+      "youthSeminar": {
+        "title": "Seminar Kepemudaan",
+        "description": "Forum pengembangan kepemimpinan, literasi digital, dan kewirausahaan muda."
+      }
+    }
+  },
+  "gallery": {
+    "eyebrow": "Galeri Kegiatan",
+    "title": "Dokumentasi Program dan Aktivitas",
+    "description": "Ruang visual untuk menampilkan kegiatan pendidikan, kebudayaan, kepemudaan, dan olahraga.",
+    "items": {
+      "education": {
+        "title": "Kegiatan Pendidikan",
+        "description": "Pendampingan sekolah dan pembelajaran."
+      },
+      "culture": {
+        "title": "Kebudayaan",
+        "description": "Pentas seni dan tradisi lokal."
+      },
+      "youth": {
+        "title": "Pemuda",
+        "description": "Pelatihan organisasi dan kewirausahaan."
+      },
+      "sports": {
+        "title": "Olahraga",
+        "description": "Kompetisi dan pembinaan atlet."
+      },
+      "school": {
+        "title": "Sekolah Mitra",
+        "description": "Kolaborasi satuan pendidikan."
+      },
+      "community": {
+        "title": "Komunitas",
+        "description": "Sinergi bersama masyarakat."
+      }
+    }
+  },
+  "partners": {
+    "eyebrow": "Mitra Kerja",
+    "title": "Kolaborasi untuk Layanan Lebih Baik",
+    "description": "Dikpora membangun kemitraan strategis dengan pemerintah, sekolah, organisasi, dan komunitas.",
+    "items": {
+      "kemendikbud": "Kementerian Pendidikan",
+      "pemkab": "Pemerintah Kabupaten Teluk Bintuni",
+      "schools": "Sekolah Mitra",
+      "youthOrg": "Organisasi Kepemudaan",
+      "koni": "KONI",
+      "cultureCommunity": "Komunitas Budaya"
+    }
+  },
+  "contact": {
+    "eyebrow": "Kontak dan Lokasi",
+    "title": "Hubungi Kami",
+    "description": "Sampaikan pertanyaan, permohonan informasi, atau masukan melalui kanal resmi berikut.",
+    "address": "Kantor Dikpora Kabupaten Teluk Bintuni, Papua Barat",
+    "phone": "(0955) 31257",
+    "email": "dikpora_bintuni@yahoo.co.id",
+    "hours": "Senin - Jumat, 08.00 - 16.00 WIT",
+    "mapPlaceholder": "Peta Lokasi Kantor",
+    "mapDescription": "Placeholder peta dapat diganti dengan embed Google Maps resmi.",
+    "form": {
+      "name": "Nama",
+      "namePlaceholder": "Nama lengkap",
+      "email": "Email",
+      "emailPlaceholder": "nama@email.com",
+      "subject": "Subjek",
+      "subjectPlaceholder": "Topik pesan",
+      "message": "Pesan",
+      "messagePlaceholder": "Tulis pesan Anda",
+      "submit": "Kirim Pesan"
+    }
+  },
+  "footer": {
+    "title": "Dinas Pendidikan, Kebudayaan, Pemuda dan Olahraga Kabupaten Teluk Bintuni",
+    "description": "Portal informasi dan layanan publik resmi Dinas Pendidikan, Kebudayaan, Pemuda dan Olahraga Kabupaten Teluk Bintuni.",
+    "quickNav": "Navigasi Cepat",
+    "publicServices": "Layanan Publik",
+    "social": "Media Sosial",
+    "copyright": "Dinas Pendidikan, Kebudayaan, Pemuda dan Olahraga Kabupaten Teluk Bintuni."
+  }
+}

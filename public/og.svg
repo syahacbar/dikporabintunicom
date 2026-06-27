@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0F4C81"/>
+  <circle cx="1010" cy="80" r="260" fill="#2D9CDB" fill-opacity="0.45"/>
+  <circle cx="180" cy="560" r="230" fill="#F2C94C" fill-opacity="0.35"/>
+  <rect x="80" y="82" width="1040" height="466" rx="36" fill="white" fill-opacity="0.12" stroke="white" stroke-opacity="0.28"/>
+  <rect x="116" y="122" width="92" height="92" rx="24" fill="white"/>
+  <text x="139" y="179" fill="#0F4C81" font-family="Arial, sans-serif" font-size="30" font-weight="800">TB</text>
+  <text x="116" y="278" fill="white" font-family="Arial, sans-serif" font-size="54" font-weight="800">Dikpora Teluk Bintuni</text>
+  <text x="116" y="350" fill="white" fill-opacity="0.88" font-family="Arial, sans-serif" font-size="34" font-weight="600">Pendidikan • Kebudayaan • Pemuda • Olahraga</text>
+  <text x="116" y="430" fill="#F2C94C" font-family="Arial, sans-serif" font-size="30" font-weight="700">Portal Resmi Pemerintah Kabupaten Teluk Bintuni</text>
+</svg>

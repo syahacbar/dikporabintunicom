@@ -27,6 +27,11 @@ export async function generateMetadata({
     },
     description: t("description"),
     keywords: t.raw("keywords"),
+    icons: {
+      icon: "/images/logo_telbin_new.png",
+      shortcut: "/images/logo_telbin_new.png",
+      apple: "/images/logo_telbin_new.png",
+    },
     alternates: {
       canonical: `/${locale}`,
       languages: {
